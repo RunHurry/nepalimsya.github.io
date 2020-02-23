@@ -1,0 +1,11 @@
+body {
+  background-image: url(image.png);
+  font-family: 'Roboto', sans-serif;
+}
+h1,p,fieldset
+{
+    margin-right:60%;
+    background-color: white;
+    opacity: 0.93;
+    color: blueviolet;
+}
